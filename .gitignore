@@ -98,7 +98,6 @@ celerybeat-schedule
 # Environments
 .env
 .venv
-.vscode/
 .azure/
 
 env/
