@@ -72,7 +72,7 @@ pathable==0.4.4
 prance==25.4.8.0
 propcache==0.3.2
 proto-plus==1.26.1
-protobuf==5.29.5
+protobuf==5.29.6
 pyasn1==0.6.2
 pyasn1-modules==0.4.2
 pybars4==0.9.13
