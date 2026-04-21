@@ -5,7 +5,7 @@ description = "Devops Agent"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "python-dotenv>=1.1.0",
+    "python-dotenv>=1.2.2",
     "semantic-kernel[mcp]>=1.30.0",
     "a2a-sdk>=0.2.4",
     "httpx[http2]>=0.28.1",
